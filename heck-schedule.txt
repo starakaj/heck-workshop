@@ -1,0 +1,13 @@
+7pm - 10pm
+
+7:00-7:30: Intro, Name Game (?), Show and Tell cool patches, download repo
+
+7:30-8:15: Here's Max!, Building the edge detector
+
+15 min break
+
+8:30-9:00: Show some more complex, yet digestable Max patches, talk through them
+
+9:00-9:15: Lab start, talk through lab patches
+
+9:15:10:00: Chill and help ppl
